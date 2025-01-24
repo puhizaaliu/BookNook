@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\BookNook\BookNook\BookNook.Domain\bin\Release\net8.0\BookNook.Domain.deps.json
+C:\Users\Admin\Desktop\BookNook\BookNook\BookNook.Domain\bin\Release\net8.0\BookNook.Domain.runtimeconfig.json
+C:\Users\Admin\Desktop\BookNook\BookNook\BookNook.Domain\bin\Release\net8.0\BookNook.Domain.dll
+C:\Users\Admin\Desktop\BookNook\BookNook\BookNook.Domain\bin\Release\net8.0\BookNook.Domain.pdb
+C:\Users\Admin\Desktop\BookNook\BookNook\BookNook.Domain\obj\Release\net8.0\BookNook.Domain.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BookNook\BookNook\BookNook.Domain\obj\Release\net8.0\BookNook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\BookNook\BookNook\BookNook.Domain\obj\Release\net8.0\BookNook.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\BookNook\BookNook\BookNook.Domain\obj\Release\net8.0\BookNook.Domain.AssemblyInfo.cs
+C:\Users\Admin\Desktop\BookNook\BookNook\BookNook.Domain\obj\Release\net8.0\BookNook.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BookNook\BookNook\BookNook.Domain\obj\Release\net8.0\BookNook.Domain.sourcelink.json
+C:\Users\Admin\Desktop\BookNook\BookNook\BookNook.Domain\obj\Release\net8.0\BookNook.Domain.dll
+C:\Users\Admin\Desktop\BookNook\BookNook\BookNook.Domain\obj\Release\net8.0\refint\BookNook.Domain.dll
+C:\Users\Admin\Desktop\BookNook\BookNook\BookNook.Domain\obj\Release\net8.0\BookNook.Domain.pdb
+C:\Users\Admin\Desktop\BookNook\BookNook\BookNook.Domain\obj\Release\net8.0\BookNook.Domain.genruntimeconfig.cache
+C:\Users\Admin\Desktop\BookNook\BookNook\BookNook.Domain\obj\Release\net8.0\ref\BookNook.Domain.dll
