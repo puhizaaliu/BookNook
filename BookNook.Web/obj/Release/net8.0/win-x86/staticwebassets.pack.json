@@ -1,0 +1,413 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\obj\\Release\\net8.0\\win-x86\\scopedcss\\projectbundle\\BookNook.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookNook.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\css\\apexcharts.css",
+      "PackagePath": "staticwebassets\\css\\apexcharts.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\css\\spinner.css",
+      "PackagePath": "staticwebassets\\css\\spinner.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\exports\\BookingDetails.docx",
+      "PackagePath": "staticwebassets\\exports\\BookingDetails.docx"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\exports\\ExportVillaDetails - Copy.pptx",
+      "PackagePath": "staticwebassets\\exports\\ExportVillaDetails - Copy.pptx"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\exports\\ExportVillaDetails.pptx",
+      "PackagePath": "staticwebassets\\exports\\ExportVillaDetails.pptx"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\images\\Room Images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\Room Images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\images\\Room Images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\Room Images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\images\\Room Images\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\Room Images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\images\\Room Images\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\Room Images\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\images\\Room Images\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\Room Images\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\images\\Room Images\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\Room Images\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\images\\Room Images\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\Room Images\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\images\\VillaImage\\274528e1-d2cb-4c69-8b31-eff67d76799a.jpg",
+      "PackagePath": "staticwebassets\\images\\VillaImage\\274528e1-d2cb-4c69-8b31-eff67d76799a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\images\\VillaImage\\aa060e60-243b-42f0-aa6f-01fb7fc6458f.jpg",
+      "PackagePath": "staticwebassets\\images\\VillaImage\\aa060e60-243b-42f0-aa6f-01fb7fc6458f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\images\\VillaImage\\d1500f31-a6ba-4e18-8f8c-3d86e793207e.jpg",
+      "PackagePath": "staticwebassets\\images\\VillaImage\\d1500f31-a6ba-4e18-8f8c-3d86e793207e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\images\\accessDenied.jpg",
+      "PackagePath": "staticwebassets\\images\\accessDenied.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\images\\notfound.jpg",
+      "PackagePath": "staticwebassets\\images\\notfound.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\images\\orderConfirmed.jpg",
+      "PackagePath": "staticwebassets\\images\\orderConfirmed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\images\\placeholder.png",
+      "PackagePath": "staticwebassets\\images\\placeholder.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\images\\resort.png",
+      "PackagePath": "staticwebassets\\images\\resort.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\images\\slide1.jpg",
+      "PackagePath": "staticwebassets\\images\\slide1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\images\\slide2.jpg",
+      "PackagePath": "staticwebassets\\images\\slide2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\jquery-ajax-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\jquery-ajax-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\jquery-ajax-unobtrusive\\README.md",
+      "PackagePath": "staticwebassets\\jquery-ajax-unobtrusive\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\jquery-ajax-unobtrusive\\dist\\jquery.unobtrusive-ajax.js",
+      "PackagePath": "staticwebassets\\jquery-ajax-unobtrusive\\dist\\jquery.unobtrusive-ajax.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\jquery-ajax-unobtrusive\\dist\\jquery.unobtrusive-ajax.min.js",
+      "PackagePath": "staticwebassets\\jquery-ajax-unobtrusive\\dist\\jquery.unobtrusive-ajax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\jquery-ajax-unobtrusive\\package.json",
+      "PackagePath": "staticwebassets\\jquery-ajax-unobtrusive\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\js\\apexcharts.js",
+      "PackagePath": "staticwebassets\\js\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\js\\booking.js",
+      "PackagePath": "staticwebassets\\js\\booking.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\js\\dashboard\\getCustomerAndBookingLineChart.js",
+      "PackagePath": "staticwebassets\\js\\dashboard\\getCustomerAndBookingLineChart.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\js\\dashboard\\getCustomerBookingPieChart.js",
+      "PackagePath": "staticwebassets\\js\\dashboard\\getCustomerBookingPieChart.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\js\\dashboard\\getTotalBookingsRadial.js",
+      "PackagePath": "staticwebassets\\js\\dashboard\\getTotalBookingsRadial.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\js\\dashboard\\getTotalRevenueRadial.js",
+      "PackagePath": "staticwebassets\\js\\dashboard\\getTotalRevenueRadial.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\js\\dashboard\\getTotalUserRadial.js",
+      "PackagePath": "staticwebassets\\js\\dashboard\\getTotalUserRadial.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\js\\dashboard\\radialChart.js",
+      "PackagePath": "staticwebassets\\js\\dashboard\\radialChart.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\js\\jquery.unobtrusive-ajax.js",
+      "PackagePath": "staticwebassets\\js\\jquery.unobtrusive-ajax.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\js\\jquery.unobtrusive-ajax.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.unobtrusive-ajax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\BookNook\\BookNook\\BookNook.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.BookNook.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.build.BookNook.Web.props",
+      "PackagePath": "build\\BookNook.Web.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.buildMultiTargeting.BookNook.Web.props",
+      "PackagePath": "buildMultiTargeting\\BookNook.Web.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.buildTransitive.BookNook.Web.props",
+      "PackagePath": "buildTransitive\\BookNook.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
